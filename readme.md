@@ -28,10 +28,6 @@ The script allows for 2 accounts to be macroed at once. If you wish to use this 
 2. **Skip alt account macroing**:
    - If you do not want to macro on your alt account, you can simply skip this step by running the script with the flag:
    `--no-alt-afk`
-   ```powershell
-   # Example
-   python "auto e.py" --no-alt-afk
-   ```
 
 # Requirements
 - A working python environment (Python 3.x)
