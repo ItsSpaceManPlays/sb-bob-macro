@@ -1,0 +1,13 @@
+# Ignore configuration file
+settings.json
+
+# Ignore funny python stuff
+__pycache__/
+*.pyc
+
+# Ignore logs
+*.log
+
+# Ignore virtual envs
+venv/
+env/
