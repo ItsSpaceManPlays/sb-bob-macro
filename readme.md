@@ -3,7 +3,7 @@ This is a simple python script for macroing bob in a roblox game called slap bat
 
 # Setup
 
-1. **Run the script:** Execute the `auto e.py` file. This will generate a `settings.json` configuration file in the same directory.
+1. **Run the script:** Execute the `macro.py` file. This will generate a `settings.json` configuration file in the same directory.
 
 2.**Configure the `settings.json` file:** The gernerated `settings.json` file will look like this:
 ```json
